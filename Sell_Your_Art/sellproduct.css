@@ -63,6 +63,7 @@ body {
 
 .main_box{
   background-image: url(/Sell_Your_Art/images/sell_bg_img.jpg);
+  background-size: cover;
 }
 /*
 1. Add the correct height in Firefox.
