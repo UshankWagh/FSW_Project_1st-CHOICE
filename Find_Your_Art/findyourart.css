@@ -359,6 +359,48 @@ nav ul li:hover::after {
     background-color: #f1f1f1;
 }
 
+/* .addToCart{
+    text-align: center;
+    background-color: #2d2d2d;
+    color: #fff;
+    padding: 7px;
+
+    margin: 0 10px 10px;
+    border-radius: 30px;
+    font-size: 1rem;
+    text-decoration: none;
+}
+
+.addToCart:hover{
+    color: white;
+} */
+
+.add-to-cart {
+    background-color: #ffa500; /* Orange */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+    position: relative;
+  }
+  
+  .add-to-cart i {
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  
+  .add-to-cart:hover {
+    background-color: #ff8c00;
+  }
+  
 
 
 

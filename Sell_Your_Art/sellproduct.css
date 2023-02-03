@@ -62,7 +62,7 @@ body {
 }
 
 .main_box{
-  background-image: url(../Sell_Your_Art/images/sell_bg_img.jpg);
+  background-image: url(/Sell_Your_Art/images/sell_bg_img.jpg);
   background-size: cover;
 }
 /*
@@ -1257,3 +1257,4 @@ video {
   --tw-bg-opacity: 1;
   background-color: rgb(185 28 28 / var(--tw-bg-opacity));
 }
+
